@@ -1,6 +1,6 @@
 {
   "name": "common-fns",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "author": "skulptur",
   "license": "MIT",
   "module": "dist/library-name-fns.esm.js",
